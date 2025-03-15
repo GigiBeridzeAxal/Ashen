@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+canvas{
+    width: 1024px;
+    height: 568px;
+    background-color: gray;
+}
+body{
+    background-color: rgb(255, 255, 255);
+}
